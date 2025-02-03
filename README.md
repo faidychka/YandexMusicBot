@@ -33,6 +33,9 @@ pip install aiogram yandex-music
 bot = Bot(token='Bot API Token', default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 yandex_client = Client('Yandex Music API Token').init()
 ```
+чтобы получить Yandex Music API Token
+Скачайте расширение [Yandex Music Token](https://chromewebstore.google.com/detail/yandex-music-token/)
+или оставьте поле пустым '', чтоб протестировать 30 секундные треки
 
 ### 5. Запуск бота
 ```bash
