@@ -1,5 +1,6 @@
 # Yandex Music Bot
-![https://imgur.com/a/gUV0lhG](https://imgur.com/a/gUV0lhG)
+![image](https://github.com/user-attachments/assets/aefc9f26-5ed2-48b9-8fc6-181c0879b312)
+
 ## Описание
 **Yandex Music Bot** — это Telegram-бот, который позволяет искать и прослушивать музыку из Yandex Music API прямо в Telegram. Бот поддерживает поиск по исполнителям, альбомам и трекам, а также предоставляет ссылки на прослушивание.
 
